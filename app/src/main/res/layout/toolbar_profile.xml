@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v7.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+                                   xmlns:app="http://schemas.android.com/apk/res-auto"
+                                   android:id="@+id/toolbar"
+                                   android:focusable="true"
+                                   android:theme="@style/Theme.BackButtonTheme"
+                                   android:layout_height="?actionBarSize"
+                                   android:layout_alignParentTop="true"
+                                   android:layout_width="match_parent"
+                                   app:popupTheme="@style/AppTheme.PopupOverlay"
+                                   android:background="@color/colorPrimaryDark">
+    <TextView android:layout_width="match_parent" android:layout_height="match_parent"
+              android:gravity="start|center_vertical"
+              android:text="@string/my_profile"
+              android:textStyle="bold"
+              android:textColor="@color/white"
+              android:textSize="18sp"
+              android:layout_marginLeft="15dp"/>
+</android.support.v7.widget.Toolbar>

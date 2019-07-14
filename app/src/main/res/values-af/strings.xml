@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="about_alc">About ALC</string>
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="my_profile">My Profile</string>
+    <string name="name">Mohamed Atef</string>
+    <string name="str_track">Track:</string>
+    <string name="track">Android</string>
+    <string name="str_country">Country:</string>
+    <string name="country">Egypt</string>
+    <string name="str_email">Email:</string>
+    <string name="email">proofesser@gmail.com</string>
+    <string name="str_phone">Phone Number:</string>
+    <string name="phone">+201097555350</string>
+    <string name="str_slack_user">Slack Username:</string>
+    <string name="alc_about_url">https://andela.com/alc/</string>
+    <!--@MOHAMED ATEF-->
+</resources>
